@@ -16,10 +16,31 @@
     <Filter Include="소스 파일\Day_1">
       <UniqueIdentifier>{35cddd92-018b-4270-8c2d-6c3ee0a0de35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day_2">
+      <UniqueIdentifier>{9e5a16ad-d18d-4388-ab75-2cebd4b7610b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
       <Filter>소스 파일\Day_1</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest4.cpp">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest1.cpp">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest2.cpp">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest3.cpp">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest5.cpp">
+      <Filter>소스 파일\Day_2</Filter>
+    </ClCompile>
+    <ClCompile Include="classtest6.cpp">
+      <Filter>소스 파일\Day_2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
